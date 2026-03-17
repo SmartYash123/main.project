@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/bit2sky-copy/index.html"
+    }
+  ]
+}
